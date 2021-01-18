@@ -1,7 +1,5 @@
 Nama : Irfan Kamal
 
+  NPM : 140810200032
 
-NPM : 140810200032
-
-
-Kelas : B
+  Kelas : B
